@@ -31,15 +31,6 @@
 
 ---
 
-### 💖 Support My Work:
-<p align="left">
-  <a href="https://ko-fi.com/s4rrar">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="s4rrar" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s4rrar&show_icons=true&theme=dark&locale=en" alt="s4rrar" />
